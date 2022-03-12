@@ -9,3 +9,11 @@ The total votes of the election is 369,711 voters
 The total number of voters is 369,711 and with three counties, Denver is the highest number of voters with 306,055, which is 82.2% of the total voters. Jefferson has 38,855 voters, which is 10.5% of the voters. And lastly Arapahoe has 24,801, which is 6.7% of voters.
 
 ![County Votes](https://user-images.githubusercontent.com/100543143/158038305-9946a11a-04a9-435e-8cd6-533fd43557bd.png)
+
+The highest number of voter in a county was Denver with having 82.2% of the vote at 306,055 votes.
+
+![County Votes](https://user-images.githubusercontent.com/100543143/158038743-894d1abb-bf3d-428b-906e-7bddc7f07658.png)
+
+Charles Casper Stockham had 85,213 voters at 23% of the votes, Diana DeGette had 272,892 voters at 73.8% of the votes, and lastly Raymon Anthony Doane had 11,606 voters at 3.1% of voters.
+
+![Voter Percentage](https://user-images.githubusercontent.com/100543143/158038761-28be80a2-120e-4754-880e-43b04f9c6b90.png)
